@@ -14,7 +14,7 @@ export default function ProfileCard({ name, avatar, bio }) {
 const styles = StyleSheet.create({
   card: {
     padding: 15,
-    backgroundColor: '#CDFFD8',
+    backgroundColor: 'blue',
     borderRadius: 10,
     alignItems: 'center',
     marginVertical: 8,
